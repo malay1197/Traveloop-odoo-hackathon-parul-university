@@ -160,18 +160,6 @@ Open `index.html` in any browser.
 
 ---
 
-# 👨‍💻 Developed By
-
-**Surya Pratap Singh**
-
----
-
-# 📄 License
-
-This project is developed for educational purposes.
-
----
-
 # ✅ Conclusion
 
 Traveloop simplifies travel planning by combining:
