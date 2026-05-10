@@ -1,0 +1,6 @@
+{
+  "name": "Traveloop Full-Stack",
+  "description": "A comprehensive travel planning platform with a secure Express/MySQL backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Full-stack", "MySQL Database", "JWT Authentication"]
+}
